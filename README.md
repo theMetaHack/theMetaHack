@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theMetaHack
 - 👀 I’m interested in coding and math
 - 🌱 I’m currently learning ML and C++
-- 💞️ I’m looking to collaborate on website things I guess??
+- 💞️
 - 📫 How to reach: message me on github
 
 <!---
